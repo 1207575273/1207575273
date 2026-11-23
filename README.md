@@ -5,7 +5,11 @@
 **AI 应用架构师 · Agent & Skill Engineering**
 
 [![在线简历](https://img.shields.io/badge/%E5%9C%A8%E7%BA%BF%E7%AE%80%E5%8E%86-resume.nodetime.top-91e600?style=for-the-badge)](https://resume.nodetime.top)
-[![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-AI%E5%BA%94%E7%94%A8%E6%9E%B6%E6%9E%84%E5%B8%88-91e600?style=for-the-badge)](https://resume.nodetime.top/resume-print)
+[![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-91e600?style=for-the-badge&label=%F0%9F%8E%AF)](https://resume.nodetime.top/resume-print)
+
+[![AI 应用工程师](https://img.shields.io/badge/AI%20%E5%BA%94%E7%94%A8%E5%B7%A5%E7%A8%8B%E5%B8%88-1a1a16?style=flat-square&labelColor=91e600)](https://resume.nodetime.top)
+[![FDE 工程师](https://img.shields.io/badge/FDE%20%E5%B7%A5%E7%A8%8B%E5%B8%88-1a1a16?style=flat-square&labelColor=a8ff1a)](https://resume.nodetime.top)
+[![全栈工程师](https://img.shields.io/badge/%E5%85%A8%E6%A0%88%E5%B7%A5%E7%A8%8B%E5%B8%88-1a1a16?style=flat-square&labelColor=d0f93b)](https://resume.nodetime.top)
 
 5 年 Java 大规模系统 · 2 年 AI 应用落地 · 日均 100 亿+ Token Agent 系统工程基建
 
